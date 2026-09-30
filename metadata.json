@@ -1,0 +1,6 @@
+{
+  "name": "Galactic Invaders Arcade",
+  "description": "A retro Space Invaders and Galaxian-style arcade shooter with procedural pixel art, diving alien squadrons, synthesized Web Audio effects, and CRT arcade atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
